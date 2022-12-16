@@ -33,5 +33,5 @@ public class PhilosopherCount implements Runnable {
         sem.release();
         }
     }
-
+ // проверка git
 
